@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+- 👨🏿‍💻 My name is Amanuel Tesfaye
+- 🏫 Rising senior at Columbia Heights Educational Campus
+- 🔭 I’m currently working on Arduino Robotics & Django Web Development
+- 🌱 I'm interested in learning Machine Learning
+- ⚡ Fun fact: I like playing/watching 🏀 & 🏈
+- 📫 Email: tesfayee.amanuel@gmail.com
 <!--
 **amantesf/amantesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
