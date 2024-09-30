@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 👨🏿‍💻 My name is Amanuel Tesfaye
-- 🏫 Rising senior at Columbia Heights Educational Campus
+- 🏫 Senior at Columbia Heights Educational Campus
 - 🔭 I’m currently working on Arduino Robotics & Django Web Development
 - 🌱 I'm interested in learning Machine Learning
 - ⚡ Fun fact: I like playing/watching 🏀 & 🏈
