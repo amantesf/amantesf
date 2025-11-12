@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 👨🏿‍💻 My name is Amanuel Tesfaye
-- 🏫 Senior at Columbia Heights Educational Campus
+- 🏫 Freshman at Georgetown University
 - 🔭 I’m currently working on Arduino Robotics & Django Web Development
 - 🌱 I'm interested in learning Machine Learning
 - ⚡ Fun fact: I like playing/watching 🏀 & 🏈
