@@ -1,8 +1,8 @@
 ## Hi there 👋
 - 👨🏿‍💻 My name is Amanuel Tesfaye
-- 🏫 Freshman at Georgetown University
-- 🔭 I’m currently working on Arduino Robotics & Django Web Development
-- 🌱 I'm interested in learning Machine Learning
+- 🏫 Sophmore at Georgetown University
+- 🔭 I’m currently learning AWS
+- 🌱 I'm interested in Machine Learning & Cloud Computing
 - ⚡ Fun fact: I like playing/watching 🏀 & 🏈
 <!--
 **amantesf/amantesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
