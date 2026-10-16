@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 👨🏿‍💻 My name is Amanuel Tesfaye
 - 🏫 Sophmore at Georgetown University
-- 🔭 I’m currently learning AWS
+- 🔭 I’m currently working on Kwanqa & learning AWS
 - 🌱 I'm interested in Machine Learning & Cloud Computing
 - ⚡ Fun fact: I like playing/watching 🏀 & 🏈
 <!--
